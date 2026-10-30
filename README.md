@@ -60,6 +60,8 @@ Managing this backlog gave us valuable insight into how Agile accommodates proje
 
 
 ```markdown
+
+```markdown
 ## 4. Sprint Backlog
 
 ### Evidence
@@ -83,4 +85,6 @@ The following table represents our Sprint 1 Backlog for the Khayelitsha Drainage
 The Sprint Backlog acted as our operational, day-to-day action plan during our active development phase. While the Product Backlog focused on the broader vision of the Khayelitsha drainage solution, the Sprint Backlog forced us to focus entirely on near-term execution. Breaking high-level features down into atomic developer tasks allowed us to assign explicit responsibilities and realistic timelines to individual team members, making overall project tracking significantly more transparent.
 
 By utilizing this backlog, we learned that a successful Agile sprint involves both technical engineering tasks and vital operational dependencies. Including stakeholder engagement (TSK-107) directly alongside coding tasks ensured that the development team remained aligned with the City of Cape Town municipality's real-world operational constraints and transition requirements. Categorizing development items into active buckets—`To Do`, `In Progress`, and `Done`—reduced team friction and gave us an instant, highly visual representation of our current project velocity. This structure kept us focused on building a viable, deployable architecture while simultaneously preparing the framework for actual municipal adoption.
+```
+
 
